@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is going to be a website for the Ottawa PostgreSQL User Group 👋
 
 <!--
 **Postgres-Ottawa/postgres-ottawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
